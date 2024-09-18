@@ -1,6 +1,6 @@
 ## 👋 Hello
 
-I'm Rafael, a senior software developer
+I'm Rafael, a senior software and game developer!
 
 ### Currently
 
